@@ -1,6 +1,6 @@
 <template>
   <div class="chat container">
-    <h2 class="center-align">Ninja Chat</h2>
+    <h2 class="center-align teal-text">Ninja Chat</h2>
     <div class="center teal-text">
       <div class="card">
         <div class="card-content">
